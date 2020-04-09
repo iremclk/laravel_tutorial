@@ -10,6 +10,10 @@
 ## Topics
  * Routing basics
  * Route and Controller structure
+ * Capture get from Route
+ * Capture url from Route
+ * Doing category system by capturing url from Route
+ * Creating Route group  
 
 ## License
 
