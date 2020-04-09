@@ -12,3 +12,4 @@
  * Database connection and configuration
  * Model and Migration structure
  * Create table and adding data with model
+ * Middleware structure and using
