@@ -15,6 +15,4 @@
  * Doing category system by capturing url from Route
  * Creating Route group  
 
-## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
