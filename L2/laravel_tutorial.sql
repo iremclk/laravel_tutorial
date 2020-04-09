@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS `haberler` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf16 COLLATE=utf16_turkish_ci;
 
--- laravel_tutorial.haberler: ~0 rows (yaklaşık) tablosu için veriler indiriliyor
+-- laravel_tutorial.haberler: ~2 rows (yaklaşık) tablosu için veriler indiriliyor
 /*!40000 ALTER TABLE `haberler` DISABLE KEYS */;
 INSERT INTO `haberler` (`id`, `baslik`, `icerik`, `created_at`, `updated_at`) VALUES
 	(1, 'laravel', 'tutorial', '2020-04-10 04:49:30', '2020-04-10 04:49:30'),
